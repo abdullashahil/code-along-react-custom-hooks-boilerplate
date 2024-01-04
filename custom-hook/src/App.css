@@ -1,0 +1,28 @@
+.main{
+  background-color: rgb(227, 129, 0);
+  width: 100vw;
+  height: 100vh;
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+input{
+  height: 50px;
+  width: 350px;
+  font-size: 28px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+  border: 2px solid black;
+  color: black;
+  padding-left: 20px;
+}
+
+.box{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+}
